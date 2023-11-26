@@ -31,7 +31,9 @@ During the correction, have the BigQuery GCP open, as you may be asked to run yo
 
 **TASKS:**
 
-**1.1** You’ve been tasked to create a detailed overview of all individual customers (these are defined by customerType = ‘I’ and/or stored in an individual table).
+**1.1** You’ve been tasked to create a detailed overview of all individual customers
+
+(these are defined by customerType = ‘I’ and/or stored in an individual table).
 
 **Write a query that provides:**
 
@@ -84,6 +86,9 @@ In the output for these customers divide their address line into two columns, i.
 **2. Reporting Sales’ numbers**
 
 **Main tables to start from: salesorderheader.**
+
+-----
+
 
 **2.1** Create a query of monthly sales numbers in each Country & region. 
 
