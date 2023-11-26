@@ -70,4 +70,4 @@ As taxes can vary in country based on province, the needed column is ‘mean_tax
 Also, as not all regions have data on taxes, you also want to be transparent and show the ‘perc_provinces_w_tax’ -> a column representing the percentage of provinces with available tax rates for each country (i.e. If US has 53 provinces, and 10 of them have tax rates, then for US it should show 0,19)
 
 
-https://docs.google.com/spreadsheets/d/1VO5ZhDyntGFneWDdL7pXQg8aapZrOylfSCJDUtflKQg/edit#gid=1543186499
+**The project:** https://docs.google.com/spreadsheets/d/1VO5ZhDyntGFneWDdL7pXQg8aapZrOylfSCJDUtflKQg/edit#gid=1543186499
